@@ -1,15 +1,10 @@
-# Prerequisites
-1. Make sure `node` & `npm` is installed (`node -v`, `npm -v`)
-2. Install dependecies `npm install`
+# Dev notes
 
-# Run project locally
-`npm run start`
-
-# Run tests
-`npm run test`
+- `npm run start` (Run project locally)
+- `npm run test` (Run tests)
 
 
-
+# Description
 
 Get Ready for PEG
 -----------------
